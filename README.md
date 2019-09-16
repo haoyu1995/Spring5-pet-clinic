@@ -1,2 +1,2 @@
-# SFT-pet-clinic
-SFT pet clinic project
+# sfg-pet-clinic
+SFG pet clinic project

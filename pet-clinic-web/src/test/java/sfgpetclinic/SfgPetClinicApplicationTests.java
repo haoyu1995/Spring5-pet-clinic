@@ -1,4 +1,4 @@
-package com.springframe.sfgpetclinic;
+package sfgpetclinic;
 
 
 import org.junit.jupiter.api.Test;

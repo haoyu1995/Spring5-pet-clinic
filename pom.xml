@@ -17,7 +17,7 @@
     </parent>
     <groupId>com.springframe</groupId>
     <artifactId>sfg-pet-clinic</artifactId>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>0.0.3</version>
     <name>sfg-pet-clinic</name>
     <description>SFG pet clinic project for Spring Boot</description>
 
@@ -45,7 +45,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/haoyu1995/sfg-pet-clinic.git</developerConnection>
-       <tag>HEAD</tag>
+       <tag>sfg-pet-clinic-0.0.3</tag>
   </scm>
 
     <repositories>
